@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CustomerTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2021-01-30T21:44:28" hostname="LAPTOP-8J3TU5E5" time="0.028">
+  <properties/>
+  <testcase name="testAllSetters" classname="CustomerTest" time="0.001"/>
+  <testcase name="testCheckMailsWithValidDomain" classname="CustomerTest" time="0.001"/>
+  <testcase name="testCheckMailWithTooShortLength" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCreateInvalidCustomer" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailWithArrobas" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCreateValidCustomer" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailWithTooLongLength" classname="CustomerTest" time="0.0"/>
+  <testcase name="testFindCustomerWithInvalidValues" classname="CustomerTest" time="0.005"/>
+  <testcase name="testCreateInvalidCustomerErrorMessages" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCreateCustomer" classname="CustomerTest" time="0.004"/>
+  <testcase name="testDeleteUnknownCustomer" classname="CustomerTest" time="0.001"/>
+  <testcase name="testAllGetters" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailWithValidLength" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailsWithInvalidDomain" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailWithoutArrobas" classname="CustomerTest" time="0.001"/>
+  <testcase name="testAllSetters" classname="CustomerTest" time="0.001"/>
+  <testcase name="testCheckMailsWithValidDomain" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailWithTooShortLength" classname="CustomerTest" time="0.001"/>
+  <testcase name="testCreateInvalidCustomer" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailWithArrobas" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCreateValidCustomer" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailWithTooLongLength" classname="CustomerTest" time="0.0"/>
+  <testcase name="testFindCustomerWithInvalidValues" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCreateInvalidCustomerErrorMessages" classname="CustomerTest" time="0.001"/>
+  <testcase name="testCreateCustomer" classname="CustomerTest" time="0.0"/>
+  <testcase name="testDeleteUnknownCustomer" classname="CustomerTest" time="0.0"/>
+  <testcase name="testAllGetters" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailWithValidLength" classname="CustomerTest" time="0.0"/>
+  <testcase name="testCheckMailsWithInvalidDomain" classname="CustomerTest" time="0.001"/>
+  <testcase name="testCheckMailWithoutArrobas" classname="CustomerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
