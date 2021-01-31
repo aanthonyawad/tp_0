@@ -9,6 +9,15 @@ repositories {
 	mavenCentral()
 }
 
+
+//To create a runnable jar  in GradleJavaProject\build\libs then java -jar GradleJavaProject.jar
+jar {
+    manifest {
+        attributes 'Main-Class': 'CreateCustomer'
+    }
+}
+
+
 dependencies {
     testImplementation 'junit:junit:4.12'
 }
